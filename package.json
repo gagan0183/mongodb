@@ -9,6 +9,7 @@
   "author": "Gagan",
   "license": "ISC",
   "dependencies": {
+    "command-line-args": "^4.0.7",
     "mongodb": "^2.2.31"
   }
 }
